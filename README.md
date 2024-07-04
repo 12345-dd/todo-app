@@ -21,6 +21,6 @@ A simple Todo List application built with React and React-Bootstrap.
 
 ## Features
 
-Add tasks
-View task details
+Add tasks ,
+View task details , 
 Delete tasks
