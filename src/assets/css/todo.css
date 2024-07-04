@@ -1,0 +1,13 @@
+.text-field input{
+    width: 30%;
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.but{
+    height: 42px;
+    width: 100px;
+}
